@@ -1,0 +1,59 @@
+good comments that cover all key points 10/10
+
+NOTES ON YOUR PLOT
+===============================
+
+
+the 2 points default in the legend should he substituted by a single plot as it is redundant and with large points it overlaps
+
+missing units on x and y axis
+
+
+the y tick labels should be in a more compressed readable notation, e.g. change units to millions
+
+
+the empty space in the plot is distracting and does not help comparison (remember tufte's rules) 
+
+the point size is unexplained
+
+the color of Bk and Bx is indistinguishable at first sight
+
+the legend shows "dot size reflects..." which belongs in a separate label, not in the legend, and it confuses the association of the blue color to SI.
+
+size differential too large
+
+NOTES ON THE PLOTS YOU REVIEWED
+===============================
+
+
+vmotupalli
+===========
+
+this is a tableau style visualization, not a plot (in fact a full poster)
+
+as a poster it probably works well. 
+
+if considered as a visualization it is too busy, fonts are too small. 
+
+lets take the bottom panels as the plot: most panels cannot actually be judged because at the resolution at which i get the plots the legends are not readable.
+
+the maps seem very busy: the gray structure underlying the dots/areas is probably unnecessary
+
+even at full res i cannot imagine that the plots on the right would have axis labels and tick labels large enough. there is a lot of empty space on the left of the center right panel. probably it should be removed. 
+
+bhong
+=====
+
+good plot, good choice of BW and mean/median in read that highlights it. 
+
+consider using a larger unit on the y axis (miles?)
+
+
+jgrundy
+=======
+the plot is clear, colorblind compliant
+
+consider a compressed notation for both axes: riders in units of 10,000 and res housing in units of 10,000 as well.
+
+the line fits are too thin and at the edge of visibility
+
